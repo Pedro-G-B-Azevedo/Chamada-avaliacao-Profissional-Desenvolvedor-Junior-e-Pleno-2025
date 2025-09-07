@@ -7,7 +7,7 @@ const LogoGEIA = () => {
             <Link href={"/"}>
                 <Image
                 src="/logo_geia.svg"
-                alt="Logo da PJC"
+                alt="Logo da GEIA"
                 width={190}
                 height={30}
                 />
